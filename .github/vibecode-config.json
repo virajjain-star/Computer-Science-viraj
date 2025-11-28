@@ -1,0 +1,42 @@
+{
+  "name": "IB Computer Science - Algorithm Library",
+  "description": "Java algorithms and implementations for IB Computer Science SL",
+  "version": "1.0.0",
+  "backend": {
+    "editor": "vibecode",
+    "repository": "Aestheticsuraj234/vibecode-playground",
+    "url": "https://vibecode-playground.vercel.app"
+  },
+  "files": {
+    "entry": "Main.java",
+    "supported": ["Main.java", "abc.java", "selectionSort.java", "binarySearch.java", "daksheshsmb.java", "tqhre.java", "work.java", "abcsohs.java", "binaryaryas.java"]
+  },
+  "runtime": "java",
+  "features": [
+    "real-time-execution",
+    "ai-code-suggestions",
+    "integrated-terminal",
+    "multi-stack-support"
+  ],
+  "codex": {
+    "enabled": true,
+    "quickLinks": [
+      {
+        "label": "Main.java",
+        "url": "https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj&file=Main.java"
+      },
+      {
+        "label": "abc.java",
+        "url": "https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj&file=abc.java"
+      },
+      {
+        "label": "selectionSort.java",
+        "url": "https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj&file=selectionSort.java"
+      },
+      {
+        "label": "Full Repository",
+        "url": "https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj"
+      }
+    ]
+  }
+}

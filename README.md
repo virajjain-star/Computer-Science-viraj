@@ -54,3 +54,66 @@ These implementations support the following topics:
 ---
 
 **Backend Version**: See [Vibecode Repository](https://github.com/Aestheticsuraj234/vibecode-playground) for latest updates
+
+---
+
+## 🤖 AI-Powered Code Analysis with Perplexity
+
+### Connect with Perplexity AI
+
+This repository is configured for direct integration with **Perplexity AI**, an advanced reasoning AI that can analyze, optimize, and explain your code.
+
+### How to Use Perplexity for Code Analysis
+
+**Option 1: Ask Directly at Perplexity.ai**
+1. Go to [Perplexity.ai](https://www.perplexity.ai)
+2. In the search/chat, mention your repository: `virajjain-star/Computer-Science-viraj`
+3. Ask questions like:
+   - "Analyze the algorithms in my GitHub repo virajjain-star/Computer-Science-viraj"
+   - "What's the time complexity of the selection sort implementation?"
+   - "Suggest optimizations for the binary search algorithm"
+   - "Explain the code structure for IB Computer Science"
+
+**Option 2: Perplexity Analysis Tasks**
+- 📊 **Code Review**: Request comprehensive code quality analysis
+- ⚡ **Performance Optimization**: Get Big O complexity analysis and improvement suggestions
+- 📚 **Learning**: Ask for step-by-step explanations of algorithms
+- 🐛 **Bug Detection**: Identify edge cases and potential issues
+- 📖 **Documentation**: Generate documentation and comments
+
+### Example Perplexity Queries
+
+```
+"Analyze Main.java from virajjain-star/Computer-Science-viraj and explain the architecture"
+
+"What's the time and space complexity of my selection sort implementation?"
+
+"How would you refactor the binary search algorithm following Java best practices?"
+
+"Is my code IB Computer Science compliant? Any improvements needed?"
+```
+
+### Configuration
+
+See `.perplexity.yml` for detailed Perplexity AI integration configuration including:
+- Pre-configured analysis queries
+- Focus areas (efficiency, readability, optimization)
+- Supported file list
+- Integration setup
+
+### Integration Benefits
+
+✅ Real-time code analysis and feedback  
+✅ Algorithm complexity evaluation  
+✅ Performance optimization suggestions  
+✅ Best practices recommendations  
+✅ Learning and explanation support  
+✅ Bug detection and edge case identification  
+
+---
+
+**All Integrations**: This project is now integrated with:
+- 🚀 **Vibecode Editor** for real-time execution
+- 🎯 **ChatGPT Codex-style** direct editor links
+- 🤖 **Perplexity AI** for advanced code analysis
+- 💻 **GitHub** for version control and collaboration

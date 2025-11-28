@@ -1,0 +1,82 @@
+# Perplexity AI Integration Configuration
+# This file enables direct integration between GitHub and Perplexity AI
+# for code analysis, documentation, and development assistance
+
+project:
+  name: "IB Computer Science - Algorithm Library"
+  description: "Java algorithms and implementations for IB Computer Science SL"
+  owner: "virajjain-star"
+  repository: "Computer-Science-viraj"
+  language: "Java"
+  version: "1.0.0"
+
+perplexity:
+  enabled: true
+  ai_model: "pplx-7b-online"  # Perplexity's code-optimized model
+  features:
+    - code_analysis
+    - documentation_generation
+    - algorithm_optimization
+    - performance_review
+    - best_practices
+    - bug_detection
+    - refactoring_suggestions
+
+integration_urls:
+  # GitHub + Perplexity Direct Access URLs
+  perplexity_search: "https://www.perplexity.ai"
+  github_repo: "https://github.com/virajjain-star/Computer-Science-viraj"
+  
+  # Share these URLs to get Perplexity AI analysis
+  quick_analysis:
+    - name: "Analyze Main.java"
+      url: "https://www.perplexity.ai/?sharing=GITHUB_virajjain-star_Main.java"
+    - name: "Review Algorithms"
+      url: "https://www.perplexity.ai/?sharing=GITHUB_virajjain-star_abc.java"
+    - name: "Optimize Sorting"
+      url: "https://www.perplexity.ai/?sharing=GITHUB_virajjain-star_selectionSort.java"
+
+analysis_scope:
+  files:
+    - Main.java
+    - abc.java
+    - selectionSort.java
+    - binarySearch.java
+    - work.java
+  
+  focus_areas:
+    - Algorithm efficiency
+    - Code readability
+    - Java best practices
+    - Performance optimization
+    - IB Computer Science standards
+
+perplexity_queries:
+  # Pre-configured queries for Perplexity analysis
+  quick_analysis:
+    - "Analyze the code structure and suggest optimizations"
+    - "Identify potential bugs or edge cases"
+    - "Rate code quality against IB CS standards"
+  
+  optimization:
+    - "What's the time complexity? Can it be improved?"
+    - "Suggest more efficient algorithms"
+    - "Compare with Java built-in methods"
+  
+  learning:
+    - "Explain the algorithm step-by-step"
+    - "What are best practices for this type of code?"
+    - "How would this be used in real-world applications?"
+
+how_to_use:
+  step_1: "Go to https://www.perplexity.ai"
+  step_2: "Use the search/chat interface"
+  step_3: "Ask questions about the code or algorithms"
+  step_4: "Reference this repository: virajjain-star/Computer-Science-viraj"
+  step_5: "Request specific analysis: 'Analyze Main.java from my GitHub repo'"
+
+# Example Perplexity Queries:
+# "Can you analyze the algorithms in virajjain-star/Computer-Science-viraj?"
+# "What's the Big O complexity of the selection sort implementation?"
+# "How would you optimize the binary search algorithm?"
+# "Explain the code structure for IB Computer Science understanding"

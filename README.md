@@ -1,3 +1,16 @@
+
+## 🚀 Quick Start - Open in Vibecode Editor
+
+| File | Open in Editor | Description |
+|------|---|---|
+| [Main.java](Main.java) | [![Open in Vibecode](https://img.shields.io/badge/Open%20in-Vibecode-blue?style=for-the-badge)](https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj&file=Main.java) | Main entry point for algorithms |
+| [abc.java](abc.java) | [![Open in Vibecode](https://img.shields.io/badge/Open%20in-Vibecode-blue?style=for-the-badge)](https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj&file=abc.java) | Algorithm implementations |
+| [selectionSort.java](selectionSort.java) | [![Open in Vibecode](https://img.shields.io/badge/Open%20in-Vibecode-blue?style=for-the-badge)](https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj&file=selectionSort.java) | Selection sort implementation |
+
+**Or open the entire project:** [📂 Open Full Repository in Vibecode](https://vibecode-playground.vercel.app?repo=virajjain-star/Computer-Science-viraj)
+
+---
+
 # Computer Science Repository
 
 A collection of Java algorithms and computer science implementations for IB Computer Science SL coursework.
